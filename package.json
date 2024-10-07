@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "assert": "^2.1.0",
+    "buffer": "^6.0.3",
+    "plotly.js": "^2.35.2",
+    "stream-browserify": "^3.0.0"
+  },
+  "devDependencies": {
+    "source-map-loader": "^5.0.0",
+    "webpack": "^5.95.0"
+  }
+}
